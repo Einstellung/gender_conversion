@@ -32,6 +32,7 @@ python UI.py
 
 <div align=center><img src="1.jpg" width="200" /></div>
 
+此外，我还上线了与之配套的CycleGAN实现男女性别转换的教程，感兴趣可以点击这个[链接](https://study.163.com/course/introduction.htm?share=2&shareId=400000000632007&courseId=1209534840&_trace_c_p_k2_=70a05c6b9b7440c39c9ea6b2d8e85a71)
 
 -----------------------------------------------
 
